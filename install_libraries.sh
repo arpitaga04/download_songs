@@ -6,3 +6,4 @@ sudo pip install requests
 sudo pip install youtube_dl
 sudo pip install pafy
 sudo cp geckodriver /bin/
+mkdir music
